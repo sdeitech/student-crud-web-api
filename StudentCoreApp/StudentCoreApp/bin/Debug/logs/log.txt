@@ -1,0 +1,62 @@
+2020-03-04 21:13:25.3489|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-04 21:13:25.4109|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-04 21:13:25.4160|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-04 21:15:57.5022|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-04 21:16:40.6140|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-04 21:16:43.5587|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-04 21:16:46.8767|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-04 21:51:38.9568|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-04 21:54:14.7340|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-04 21:54:14.7725|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-04 21:54:14.7799|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-04 21:54:20.0618|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-05 13:17:10.1517|FATAL|Microsoft.AspNetCore.Hosting.Diagnostics|Application startup exception
+2020-03-05 13:18:51.5358|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-05 13:18:51.5650|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-05 13:18:51.5715|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-05 13:34:08.5045|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:28:33.3236|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-06 20:28:33.5515|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-06 20:28:33.5707|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-06 20:28:33.7079|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:28:33.7354|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:28:33.7754|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:29:14.7156|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:29:15.0496|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:37:44.6284|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-06 20:37:44.6759|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-06 20:37:44.7303|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-06 20:38:08.3366|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:38:08.6822|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:50:24.0477|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-06 20:50:24.1101|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-06 20:50:24.1262|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-06 20:50:24.1745|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:50:24.4574|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-06 20:52:10.0375|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-06 20:52:10.0902|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-06 20:52:10.1052|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 18:44:41.3402|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 18:44:41.5596|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 18:44:41.5937|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:13:14.8842|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:13:14.9342|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:13:14.9581|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:18:21.0864|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:18:21.1419|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:18:21.1595|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:22:24.9776|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:22:25.0485|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:22:25.0965|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:23:16.1087|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:23:16.1539|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:23:16.1734|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:26:46.6689|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:26:46.7226|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:26:46.7395|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:33:41.6398|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:33:41.6880|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:33:41.7065|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
+2020-03-13 19:36:03.6773|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-13 19:36:03.7319|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-13 19:36:03.7482|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kishori.lal\source\repos\EmployeeCoreApp\EmployeeCoreApp
