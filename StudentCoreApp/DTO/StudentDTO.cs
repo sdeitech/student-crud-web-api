@@ -4,8 +4,14 @@ using System.Text;
 
 namespace DTO
 {
+    
     public class StudentDTO
     {
+        public StudentDTO() 
+        { 
+        
+        }
+
         public int StudentId { get; set; }
         public string StudentName { get; set; }
         public int StudentAge { get; set; }

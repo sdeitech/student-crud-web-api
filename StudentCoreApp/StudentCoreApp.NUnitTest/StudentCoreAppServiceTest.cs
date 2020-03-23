@@ -1,30 +1,30 @@
+using AutoMapper;
 using DTO;
+using Microsoft.Extensions.Logging;
+using Models;
 using NUnit.Framework;
 using Repository;
 using Service;
 
 namespace StudentCoreApp.NUnitTest
 {
-    [TestFixture(Category= "studentService")]
+    [TestFixture]
     public class StudentCoreAppServiceTest
     {
 
         private IStudentService _studentService;
-        
+        private IStudentRepository _studentRepository;
+        public StudentContext _studentContext;
+        private IMapper _mapper;
+        private ILogger<StudentRepository> _exceptionLogger;
+
         [SetUp]
         public void SetUp()
         {
+            _studentRepository = new StudentRepository(_studentContext, _mapper, _exceptionLogger);
+            _studentService = new StudentService(_studentRepository);
+        }
 
-        }
-        [Test]
-        public void Test1()
-        {
-            Assert.Pass();
-        }
-        public StudentCoreAppServiceTest(IStudentService studentService)
-        {
-            _studentService = studentService;
-        }
         [Test]
         public void AddStudent_InvalidObjectPassed_ReturnsFalse()
         {
